@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tenacity<br>📫 How to reach me my username is "malinacoin" on Discord<br>⚡ Fun fact I made lua for gamesense in one night
+🔭 I’m currently working on Tenacity<br>📫 How to reach me? My username is "malinacoin" on Discord<br>⚡ Fun fact! I made lua for gamesense in one night
 
 
 ## 🌐 Socials:
